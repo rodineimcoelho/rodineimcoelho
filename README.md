@@ -9,8 +9,8 @@
 
 ## Stats
 <div>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=rodineimcoelho&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="rodineimcoelho's Stats">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineimcoelho&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rodineimcoelho's Stats">
+  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodineimcoelho&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="rodineimcoelho's Stats">
+  <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rodineimcoelho&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="rodineimcoelho's Stats">
 </div>
 <!--
 **rodineimcoelho/rodineimcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
